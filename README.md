@@ -1,6 +1,6 @@
 <h1 align='center'>VC-X Solutions</h1>
 <ul>
-  <li><em>Linguagem base: Java (Maven)</em></li>
+  <li><em>Linguagem base: Java 17 1.5 (Maven)</em></li>
   <li><em>Ambiente: Linux Ubuntu 22.04 LTS</em></li>
   <li><em>Empresa: VC-X Solutions</em></li>
 </ul>
